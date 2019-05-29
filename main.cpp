@@ -18,7 +18,9 @@ class bhvrCollisionTrigger;
 
 class Game {
 public:
-	void 
+	void onStart() {}
+	void onUpdate() {}
+	void onEnd() {}
 };
 
 namespace game {
